@@ -34,15 +34,9 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.google.cloud</groupId>
-			<artifactId>google-cloud-logging-logback</artifactId>
-			<version>0.130.21-alpha</version>
-		</dependency>
-
-		<dependency>
 			<groupId>net.logstash.logback</groupId>
 			<artifactId>logstash-logback-encoder</artifactId>
-			<version>7.3</version> <!-- 使用最新版本 -->
+			<version>7.3</version> 
 		</dependency>
 
 	</dependencies>
